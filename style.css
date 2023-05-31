@@ -6,6 +6,7 @@ body{
     height: 80vh;
 }
 #container{
+    
     color: black;
 }
 .digit{
@@ -22,7 +23,11 @@ body{
 }
 .btn{
     padding: 9px 30px;
-    font-size: 15px;
+    font-size: 20px;
     margin: 0px 10px;
     cursor:pointer;
+    font-weight: bold;
+}
+button:active{
+    background-color: aqua;
 }
