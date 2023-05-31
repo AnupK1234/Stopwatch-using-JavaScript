@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(225, 255, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+#container{
+    color: black;
+}
+.digit{
+    font-size: 150px;
+    font-weight: bold;
+}
+.txt{
+    font-size: 30px;
+    font-weight: bold;
+}
+#btn-container{
+    text-align: center;
+    margin-top: 20px;
+}
+.btn{
+    padding: 9px 30px;
+    font-size: 15px;
+    margin: 0px 10px;
+    cursor:pointer;
+}
