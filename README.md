@@ -1,1 +1,1 @@
-#Stopwatch Project using JavaScript
+# Stopwatch Project using HTML, CSS, JavaScript
